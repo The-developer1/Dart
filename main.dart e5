@@ -1,0 +1,10 @@
+void main () {
+ String name = " nawaf" ;
+ int age = 12;
+ double w = 2.3;
+ bool r = true;
+ print("$r");
+  
+}
+
+//5 video end
