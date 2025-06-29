@@ -1,0 +1,29 @@
+void main () {
+
+// * الضرب
+/*
+int a = 10;
+int b = 6 ;
+int c = a * b ;
+print(c);
+*/
+
+
+
+
+
+
+// / القسمة
+
+int a = 13;
+int b = 6 ;
+double  c = a / b ;
+
+
+//    int c = a ~/ b ;   إذا انت تريدة ناتج القسمة عدد صحيح فقط تستخدم قبل القسمةالرمز
+print(c);
+
+
+}
+
+//6 Arithmetic Operators
