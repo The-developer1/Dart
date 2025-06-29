@@ -1,0 +1,10 @@
+void main () {
+
+String? name ;
+
+print(name);
+
+  
+}
+
+//5 NULL Safety video
