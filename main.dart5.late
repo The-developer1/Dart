@@ -1,0 +1,10 @@
+void main () {
+
+late  String name ;
+name = "nawaf";
+print(name.length);
+
+  
+}
+
+//5 NULL Safety video
