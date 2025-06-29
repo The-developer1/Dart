@@ -1,0 +1,30 @@
+void main () {
+
+// % باقي القسمة
+/*
+int a = 17;
+int b = 6 ;
+int  c = a % b ;
+
+   
+print(c);
+
+// 5
+
+*/
+
+int c = 10 ;
+c++; // add 1
+// the same c = c + 1 ;
+
+c--; // mins 1 
+// the same c = c - 1 ;
+
+print(c);
+
+
+
+
+}
+
+//6 Arithmetic Operators
